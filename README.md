@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ApurvaSumeet
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Programming in Python, SQL and R
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on projects involving data analysis and data representation
 - 📫 How to reach me apurva.sawant@ymail.com
 
 <!---
